@@ -3,5 +3,5 @@
 ### Usage
 
 ```
-$ docker run --rm -v /opt:/target hoshinotsuyoshi/git2.2.1-on-coreos
+$ docker run --rm -v /opt/bin:/target hoshinotsuyoshi/git2.2.1-on-coreos
 ```
